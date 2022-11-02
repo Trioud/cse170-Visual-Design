@@ -1,6 +1,9 @@
+URL to the new Website = https://trioud.github.io/cse170-Visual-Design/
+
 # I) Practicing Visual Design  
 
 Selected website : https://www.berkshirehathaway.com/
+
 Main issue with this website : Alignment
 
 If you were to continue, which principle would you choose next? Why? (1-3 sentences)
